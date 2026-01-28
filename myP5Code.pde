@@ -15,7 +15,10 @@ draw = function(){
   }
 
   //🎯New Text Code Should Go Here 🡻
-
+background(224,0,0);
+fill(0,13,255);
+textSize(45)
+text("Just do it",30,40);
 };
 
 //🟡Mouse Pressed Procedue - Runs When Mouse is Pressed on Canvas
